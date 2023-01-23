@@ -6,4 +6,10 @@ Ejercicios semana 2. Bootcamp Madrid
 
 - .editorconfig
 - .gitignore
-- .package.json
+- .package.json (add pretier)
+- Instalar dependencias desde package.json: `npm i`
+- crear repo: `git init`
+- Install de eslint `npm i -D eslint`
+- Configuración de eslint `npx eslint --innit`
+- Añadir `npm i -D esint-config-prettier`
+- Incuir en eslint.json "prettier" como última extensión
