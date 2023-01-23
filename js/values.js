@@ -12,4 +12,9 @@ console.log(Symbol(), typeof Symbol());
 
 console.log({}, typeof {});
 console.log([], typeof []);
+console.log(new Date(), typeof new Date());
+console.log(/a/i, typeof /a/i);
 console.log(() => {}, typeof (() => {}));
+
+[].map();
+'pepe'.toUpperCase();
