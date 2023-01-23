@@ -13,5 +13,8 @@
   "devDependencies": {
     "husky": "^8.0.0",
     "sass": "^1.57.1"
+  },
+  "prettier": {
+    "singleQuote": true
   }
 }
